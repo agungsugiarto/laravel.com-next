@@ -1,4 +1,5 @@
 /resources/docs
+/resources/lumen-docs
 /node_modules
 /public/hot
 /public/storage
