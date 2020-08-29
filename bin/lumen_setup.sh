@@ -8,6 +8,6 @@ fi
 composer install
 cp .env.example .env
 php artisan key:generate
-source "$(dirname "$0")/checkout_latest_docs.sh"
+source "$(dirname "$0")/lumen_checkout_latest_docs.sh"
 npm install
 # npm run dev

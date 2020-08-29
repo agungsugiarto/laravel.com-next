@@ -8,12 +8,13 @@
             <nav class="main">
                 <div class="nav_contain">
                     <ul>
-                        <li class="docs_link"><a href="/docs">Documentation</a></li>
-                        @if (SHOW_VAPOR)
+                        <li class="docs_link"><a href="/docs">Laravel Documentation</a></li>
+                        <li class="docs_link"><a href="/lumen-docs">Lumen Documentation</a></li>
+                        {{-- @if (SHOW_VAPOR)
                             <li class="forge_link"><a href="https://vapor.laravel.com">Vapor</a></li>
                         @else
                             <li class="forge_link"><a href="https://forge.laravel.com">Forge</a></li>
-                        @endif
+                        @endif --}}
                         <li>
                             <a href="#" class="drop_trigger">Ecosystem<span class="arrow"><img src="/img/icons/nav_arrow.min.svg" alt="Expand"></span></a>
                             <div class="drop_contain">
