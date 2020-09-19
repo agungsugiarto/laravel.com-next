@@ -21,7 +21,7 @@
                     <div class="content">
                         <div class="contain">
                             <h3>You can think of DevSquad as the Navy SEALs of software development. Our team members have unique and diverse skills, and this cross-functionality lets us successfully complete any mission.</h3>
-                            <div class="hero_img"><img src="/img/partners/img_devsquad_detail.png" alt="Dev Squad">
+                            <div class="hero_img"><img src="/img/partners/img_devsquad_detail.jpg" alt="Dev Squad">
                             </div>
                         </div>
                     </div>
@@ -36,7 +36,7 @@
                         </div>
 
                         <div class="content">
-                            <p>All of our clients get their own dedicated Squad. Even if you need 30 developers, everyone working on your project is split into small agile teams of 2-6 people. A battle-tested small people can move quicker and with more precision than larger teams, just like the Navy SEALs.</p>
+                            <p>All of our clients get their own dedicated Squad. Even if you need 30 developers, everyone working on your project is split into small agile teams of 2-6 people. A battle-tested small team can move quicker and with more precision than larger teams, just like the Navy SEALs.</p>
 
                             <div class="list_block">
                                 <h3>Proficiencies</h3>
